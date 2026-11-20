@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3908-valid-digit-number](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3908-valid-digit-number) |
 ## Prefix Sum
 |  |
 | ------- |
