@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1323-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3908-valid-digit-number](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3908-valid-digit-number) |
 ## Prefix Sum
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1323-maximum-69-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
 |  |
