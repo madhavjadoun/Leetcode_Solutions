@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1002-find-common-characters](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
