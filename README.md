@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [3663-find-the-least-frequent-digit](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Math
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1323-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3663-find-the-least-frequent-digit](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3908-valid-digit-number](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3908-valid-digit-number) |
 ## Prefix Sum
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1002-find-common-characters) |
+| [3663-find-the-least-frequent-digit](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -50,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0595-big-countries) |
+## Counting
+|  |
+| ------- |
+| [3663-find-the-least-frequent-digit](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 <!---LeetCode Topics End-->
