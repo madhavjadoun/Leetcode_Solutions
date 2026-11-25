@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1323-maximum-69-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3663-find-the-least-frequent-digit](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3908-valid-digit-number](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3908-valid-digit-number) |
 ## Prefix Sum
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1002-find-common-characters) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3663-find-the-least-frequent-digit](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Pigeonhole Principle
 |  |
