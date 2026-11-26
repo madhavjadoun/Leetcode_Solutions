@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3663-find-the-least-frequent-digit](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1002-find-common-characters) |
+| [2367-number-of-arithmetic-triplets](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3663-find-the-least-frequent-digit](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Pigeonhole Principle
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/3360-stone-removal-game) |
+## Two Pointers
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
