@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1323-maximum-69-number](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1323-maximum-69-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -81,10 +82,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
