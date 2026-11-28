@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0414-third-maximum-number](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0896-monotonic-array](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/1002-find-common-characters) |
 | [2367-number-of-arithmetic-triplets](https://github.com/madhavjadoun/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
